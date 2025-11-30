@@ -1,0 +1,5 @@
+{
+  "name": "ChromaSense",
+  "description": "Extract dominant colors and generate beautiful palettes from images using Canvas API.",
+  "requestFramePermissions": []
+}
